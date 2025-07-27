@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eab06025-6b7a-45a9-9953-0cca1f0b6156" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Hackerx.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reasoning_engine/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reasoning_engine/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reasoning_engine/api/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reasoning_engine/api/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reasoning_engine/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reasoning_engine/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reasoning_engine/core/agent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reasoning_engine/core/ingestion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reasoning_engine/core/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reasoning_engine/core/retrievel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reasoning_engine/core/tools.py" afterDir="false" />
-    </list>
+    <list default="true" id="eab06025-6b7a-45a9-9953-0cca1f0b6156" name="Changes" comment="First commit-Till now it's working fine.&#10;&#10;Not very good" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SatyamSingh-Git/Gemini-Powered-Hybrid-Reasoning-Engine-.git",
+    "accountId": "b2584873-a1aa-4294-991e-ea930ca97524"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -87,12 +70,25 @@
       <option name="presentableId" value="Default" />
       <updated>1753609089267</updated>
       <workItem from="1753609090489" duration="14764000" />
-      <workItem from="1753633129794" duration="4501000" />
+      <workItem from="1753633129794" duration="5082000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit-Till now it's working fine.&#10;&#10;Not very good">
+      <option name="closed" value="true" />
+      <created>1753638222517</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753638222517</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit-Till now it's working fine.&#10;&#10;Not very good" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit-Till now it's working fine.&#10;&#10;Not very good" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Hackerx$agent.coverage" NAME="agent Coverage Results" MODIFIED="1753636044521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/reasoning_engine/core" />
