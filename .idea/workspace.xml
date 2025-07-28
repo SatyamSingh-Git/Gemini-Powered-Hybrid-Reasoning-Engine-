@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eab06025-6b7a-45a9-9953-0cca1f0b6156" name="Changes" comment="First commit-Till now it's working fine.&#10;&#10;Not very good" />
+    <list default="true" id="eab06025-6b7a-45a9-9953-0cca1f0b6156" name="Changes" comment="First commit-Till now it's working fine.&#10;&#10;Not very good">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reasoning_engine/api/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/reasoning_engine/api/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reasoning_engine/core/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/reasoning_engine/core/agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reasoning_engine/core/retrievel.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/reasoning_engine/core/retrievel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reasoning_engine/core/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/reasoning_engine/core/tools.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SatyamSingh-Git"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SatyamSingh-Git&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SatyamSingh-Git/Gemini-Powered-Hybrid-Reasoning-Engine-.git",
-    "accountId": "b2584873-a1aa-4294-991e-ea930ca97524"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SatyamSingh-Git/Gemini-Powered-Hybrid-Reasoning-Engine-.git&quot;,
+    &quot;accountId&quot;: &quot;b2584873-a1aa-4294-991e-ea930ca97524&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -43,23 +49,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.agent.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.agent.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,7 +82,8 @@
       <option name="presentableId" value="Default" />
       <updated>1753609089267</updated>
       <workItem from="1753609090489" duration="14764000" />
-      <workItem from="1753633129794" duration="5377000" />
+      <workItem from="1753633129794" duration="8119000" />
+      <workItem from="1753690733484" duration="1091000" />
     </task>
     <task id="LOCAL-00001" summary="First commit-Till now it's working fine.&#10;&#10;Not very good">
       <option name="closed" value="true" />
