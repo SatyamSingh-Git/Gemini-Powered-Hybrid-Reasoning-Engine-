@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eab06025-6b7a-45a9-9953-0cca1f0b6156" name="Changes" comment="First commit-Till now it's working fine.&#10;&#10;Not very good">
+    <list default="true" id="eab06025-6b7a-45a9-9953-0cca1f0b6156" name="Changes" comment="Working very good.&#10;May get few updates">
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reasoning_engine/api/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/reasoning_engine/api/routes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reasoning_engine/core/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/reasoning_engine/core/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reasoning_engine/core/retrievel.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/reasoning_engine/core/retrievel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reasoning_engine/core/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/reasoning_engine/core/tools.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +81,7 @@
       <updated>1753609089267</updated>
       <workItem from="1753609090489" duration="14764000" />
       <workItem from="1753633129794" duration="8119000" />
-      <workItem from="1753690733484" duration="1091000" />
+      <workItem from="1753690733484" duration="3801000" />
     </task>
     <task id="LOCAL-00001" summary="First commit-Till now it's working fine.&#10;&#10;Not very good">
       <option name="closed" value="true" />
@@ -101,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753638429546</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Working very good.&#10;May get few updates">
+      <option name="closed" value="true" />
+      <created>1753693092368</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753693092368</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit-Till now it's working fine.&#10;&#10;Not very good" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit-Till now it's working fine.&#10;&#10;Not very good" />
+    <MESSAGE value="Working very good.&#10;May get few updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working very good.&#10;May get few updates" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Hackerx$agent.coverage" NAME="agent Coverage Results" MODIFIED="1753636044521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/reasoning_engine/core" />
